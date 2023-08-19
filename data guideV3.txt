@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the dynamic world of mobile gaming, Standoff 2 stands out as a shining beacon of intense shooting action",
+   "photo1":"https://iili.io/Hbq0d1n.webp"},
+  {"desc2":"Developed by Axlebolt, this game has taken the gaming community by storm, offering an exhilarating experience for players who crave fast-paced, tactical shooter gameplay","photo2":"https://iili.io/Hbq09st.webp"},
+  {"desc3":"In this review, we'll delve into the heart of Standoff 2 and explore what makes it one of the premier shooting games on the mobile platform.","photo3":"https://iili.io/Hbq0JqX.webp"},
+  {"desc4":"Standoff 2 pits players against each other in a variety of game modes, including Team Deathmatch, Defuse the Bomb, and Arms Race","photo4":"https://iili.io/Hbq02gs.webp"},
+  {"desc5":"The diverse range of modes ensures there's something for every type of shooter enthusiast","photo5":"https://iili.io/Hbq0FdG.webp"},
+  {"descd":"Whether you're a fan of classic gunfights or enjoy the tension of defusing a ticking bomb, this game has you covered","photod":"https://iili.io/Hbq0K7f.webp"}
    ]
  
 }
